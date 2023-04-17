@@ -10,3 +10,5 @@ a consumer.
 ## Expected output
 Just a log of your Drive files.
 
+> Note: The .tldr file is meant to be opened in the `tldraw` app which is basically a whiteboard. I've also added the PNG file for reference of how the flow should be.
+
